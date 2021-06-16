@@ -68,7 +68,7 @@ function generateSuggestions() {
   const file = new Blob([`${data}`], {type: 'text/plain'});
   
   a.href= URL.createObjectURL(file);
-  a.download = 'plantSuggestion.js';
+  a.download = 'PlantSuggestions.js';
   a.click();
   
   URL.revokeObjectURL(a.href);
