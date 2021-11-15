@@ -47,4 +47,44 @@ export default [
     botanical: "philodendron",
     linkedNames: [],
   },
+  {
+    botanical: "kalanchoe marmorata",
+    linkedNames: ["penwiper plant"],
+  },
+  {
+    botanical: "chlorophytum comosum",
+    linkedNames: ["spider plant"],
+  },
+  {
+    botanical: "calathea rufibarba",
+    linkedNames: ["velvet calathea"],
+  },
+  {
+    botanical: "beaucarnea recurvata",
+    linkedNames: ["ponytail palm"],
+  },
+  {
+    botanical: "dracaena fragans",
+    linkedNames: ["dracaena elegance"],
+  },
+  {
+    botanical: "aloe humilis",
+    linkedNames: ["hedgehog aloe"],
+  },
+  {
+    botanical: "maranta leuconeura",
+    linkedNames: ["red prayer plant"],
+  },
+  {
+    botanical: "pachira aquatica",
+    linkedNames: ["money tree"],
+  },
+  {
+    botanical: "ficus lyrata",
+    linkedNames: ["fiddle leaf fig"],
+  },
+  {
+    botanical: "monstera deliciosa",
+    linkedNames: ["monstera"],
+  },
 ];
